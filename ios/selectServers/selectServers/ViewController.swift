@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     @IBOutlet var myButton : UIButton!
     let customAlert = MyAlert()
     let url = "www.naver.com"
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
